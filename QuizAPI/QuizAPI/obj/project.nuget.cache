@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra73GduLCSO1FkDXrbie0A3/JYiO/cOPrCYlCt1mWr86xUA6Xa9YvndJl7s1ahCjYPYMP0Xxoq89EFl9VgTs/Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Roly\\OneDrive\\Documentos\\Projects\\QuizApp\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.2\\microsoft.entityframeworkcore.sqlserver.6.0.2.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.2\\microsoft.entityframeworkcore.tools.6.0.2.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\6.0.2\\microsoft.visualstudio.web.codegeneration.design.6.0.2.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Roly\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.EntityFrameworkCore 6.0.2 no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El paquete Microsoft.EntityFrameworkCore 6.0.2 admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.EntityFrameworkCore.SqlServer 6.0.2 no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El paquete Microsoft.EntityFrameworkCore.SqlServer 6.0.2 admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.EntityFrameworkCore.Tools 6.0.2 no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El paquete Microsoft.EntityFrameworkCore.Tools 6.0.2 admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.2 no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El paquete Microsoft.VisualStudio.Web.CodeGeneration.Design 6.0.2 admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
